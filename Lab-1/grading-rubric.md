@@ -3,7 +3,7 @@
 **Assignment:** Homework 1 — Individual  
 **Course:** CS-AI-2025 — Building AI-Powered Applications | Spring 2026  
 **Total Points:** 5.0  
-**Due:** Before Lab 2 — Friday 13 March 2026 (Group A: 09:00 | Group B: 11:00)
+**Due:** Before Lab 2 — Friday 20 March 2026 (Group A: 09:00 | Group B: 11:00)
 
 ---
 
