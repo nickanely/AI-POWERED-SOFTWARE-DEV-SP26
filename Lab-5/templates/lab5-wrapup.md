@@ -7,7 +7,7 @@
 
 **Your name:**
 **Your team name:**
-**Date:** Friday 10 April 2026
+**Date:** April 2026
 
 ---
 
@@ -52,5 +52,3 @@ Confirm the status of each item before submitting.
 - [ ] `lab5-checkpoint` tag exists and is pushed
 
 ---
-
-*Submit this form via the course LMS link posted in class. It takes under five minutes.*
