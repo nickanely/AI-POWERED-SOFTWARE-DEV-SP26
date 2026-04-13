@@ -100,8 +100,7 @@ Every API call your prototype makes must be captured in the cost log. Use `templ
 
 ### Team Health Check
 
-At any point during the sprint, each team member should individually complete the anonymous team health check form at `templates/team-health-check.md`. Takes under three minutes. Submit individually via the course LMS link posted in class.
-
+At any point during the sprint, each team member should individually complete the anonymous team health check form at `templates/team-health-check.md`. This wll be included in your next Capstone Milestone
 ---
 
 ## Part 3: Commit, Tag, Push, and Wrap-up (15 min)
@@ -122,8 +121,7 @@ git tag lab5-checkpoint
 git push origin main --tags
 ```
 
-Then fill in `templates/lab5-wrapup.md` and submit it individually via the course LMS. It asks three questions and takes five minutes. It is how the instructor knows what each team actually shipped today.
-
+Then fill in `templates/lab5-wrapup.md`. It asks three questions and takes five minutes.
 ---
 
 ## File Map
@@ -139,7 +137,7 @@ Lab-5/
 │   ├── design-decisions.md          ← Part 1: fill this in as a team
 │   ├── cost-log-template.md         ← Track every API call during the sprint
 │   ├── team-health-check.md         ← Individual anonymous form
-│   └── lab5-wrapup.md               ← Submit individually at end of lab
+│
 │
 ├── guides/
 │   ├── openrouter-setup-guide.md    ← Verify your key and test a call
