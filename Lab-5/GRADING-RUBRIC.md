@@ -3,7 +3,7 @@
 **Lab:** Lab 5 — Capstone Prototype Sprint
 **Course:** CS-AI-2025 — Building AI-Powered Applications | Spring 2026
 **Graded as:** Capstone progress checkpoint — feeds into Design Review and Repository Review scores
-**Submission:** `lab5-checkpoint` tag pushed to team repo + individual `lab5-wrapup.md` via LMS
+**Submission:** `lab5-checkpoint` tag pushed to team repo + individual `lab5-wrapup.md`
 
 > Lab 5 does not have a standalone point value. It is a capstone progress checkpoint. The deliverables produced here feed directly into your **Design Review (10 pts)** and **Repository Review (10 pts)** scores. Falling behind in Lab 5 compounds into every subsequent capstone milestone.
 
